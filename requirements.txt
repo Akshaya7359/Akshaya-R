@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+httpx
+python-dotenv
+google-genai
+pydantic
+python-docx
+fpdf2
+Pillow
+pytest

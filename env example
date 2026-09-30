@@ -1,0 +1,6 @@
+GEMINI_API_KEY=AQ.Ab8RN6It1tHpD2iczVm9UILIlQ1wBV6uMLKxNmM8Ks5MCjbIAg
+
+# You can change this model without changing the Python code.
+GEMINI_MODEL=gemini-3-flash-preview
+
+BACKEND_URL=http://127.0.0.1:8000
